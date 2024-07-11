@@ -10,5 +10,3 @@
 ![2E5578EE-E1B3-447F-BF9B-9CEF2FD9E8AF_1_201_a](https://github.com/karinabao/skills-github-pages/assets/39714767/1877d5df-b73a-4146-b9ac-0e8200d4cca4)
 ![A1C6E661-AB5B-4429-A66D-8DC179DA04C0_1_201_a](https://github.com/karinabao/skills-github-pages/assets/39714767/ef3dc988-03db-4cee-94d1-b00897f2a037)
 ![EC33904B-3A12-4452-85BF-2D4F00CFAA47_1_201_a](https://github.com/karinabao/skills-github-pages/assets/39714767/27ad0a16-8fb9-44c0-8f6b-ef015e3e91c3)
-
-Contact: bao [dot] karina [at] g mail

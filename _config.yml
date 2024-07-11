@@ -1,3 +1,12 @@
-theme: minima
-markdown: kramdown
 title: Karina Bao Photography
+author: Karina Bao
+email: bao [dot] karina [at] g mail 
+
+twitter_username: jekyllrb
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
