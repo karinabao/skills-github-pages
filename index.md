@@ -1,5 +1,8 @@
 # Karina Bao
 ### Photography
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/repkarinabao.svg?style=social&label=Follow%20%40repkarinabao)](https://twitter.com/repkarinabao)
+
 ![99C1FC2B-7DD6-405C-ACC6-A9F7B8A06D73_1_201_a](https://github.com/karinabao/skills-github-pages/assets/39714767/1d76c6dd-a308-4181-ab65-8e887e49b0a3)
 ![00647E0C-9988-4BC8-AED9-B31B991422A6_1_201_a](https://github.com/karinabao/skills-github-pages/assets/39714767/efbfc041-129f-45a2-8bdb-bf04edf8425b)
 ![CBAD6731-C153-4C89-9525-0161756A510F_1_201_a](https://github.com/karinabao/skills-github-pages/assets/39714767/1b13b95b-9c53-47d4-b22d-d2edcc7a9070)
