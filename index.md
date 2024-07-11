@@ -1,4 +1,4 @@
-### Home
+## Home
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/repkarinabao.svg?style=social&label=Follow%20%40repkarinabao)](https://twitter.com/repkarinabao)
 
@@ -8,7 +8,7 @@
 ![00695263-B274-49AF-973D-01B9D6ABAFDC_1_201_a](https://github.com/karinabao/skills-github-pages/assets/39714767/42533e4e-2f02-49a7-b83e-0e418059584c)
 ![D9BE6AAF-811E-4348-AE22-29BDE3CD6499_1_201_a](https://github.com/karinabao/skills-github-pages/assets/39714767/8eaa57d5-1013-47aa-b911-2ab828d3a50d)
 
-## Hummingbirds
+### Hummingbirds
 ![20A54F36-EA58-459E-9CDF-47BA6D414ED4_1_201_a](https://github.com/karinabao/skills-github-pages/assets/39714767/1ee81fab-0c19-4a20-8711-df62ee6ad004)
 ![2E5578EE-E1B3-447F-BF9B-9CEF2FD9E8AF_1_201_a](https://github.com/karinabao/skills-github-pages/assets/39714767/1877d5df-b73a-4146-b9ac-0e8200d4cca4)
 ![A1C6E661-AB5B-4429-A66D-8DC179DA04C0_1_201_a](https://github.com/karinabao/skills-github-pages/assets/39714767/ef3dc988-03db-4cee-94d1-b00897f2a037)
